@@ -1,0 +1,2 @@
+﻿E:\SOFT\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1044,5): warning MSB8027: два или более файлов с именем ConsoleApplication1.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ..\..\Калькулятор\ConsoleApplication1\ConsoleApplication1.cpp, ConsoleApplication1.cpp.
+  ConsoleApplication1.vcxproj -> E:\!ПОИТ\ОАиП\Лабы\Лабораторная работа 4\Задача про выгоду\Debug\ConsoleApplication1.exe
