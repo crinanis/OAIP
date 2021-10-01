@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\сортировка 2 доп 3\сортировка 2 доп 3\Source.cpp(17,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\сортировка 2 доп 3\сортировка 2 доп 3\Source.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  сортировка 2 доп 3.vcxproj -> C:\Users\User\source\repos\сортировка 2 доп 3\Debug\сортировка 2 доп 3.exe
